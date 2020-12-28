@@ -2,7 +2,7 @@
     "name": "glebsky/dota2-api",
     "description": "DotA 2 Web API PHP wrapper",
     "license": "MIT",
-    "version": "1.0",
+    "version": "2.2.2",
     "type": "library",
     "keywords": [
         "dota2",
