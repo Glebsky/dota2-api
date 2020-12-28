@@ -1,8 +1,8 @@
 {
-    "name": "kronusme/dota2-api",
+    "name": "glebsky/dota2-api",
     "description": "DotA 2 Web API PHP wrapper",
     "license": "MIT",
-    "version": "2.2.1",
+    "version": "1.0",
     "type": "library",
     "keywords": [
         "dota2",
@@ -12,9 +12,9 @@
     ],
     "authors": [
         {
-            "name": "KronuS Me",
-            "email": "kronusme@gmail.com",
-            "homepage": "http://kronus.me",
+            "name": "Glebsky",
+            "email": "laosdeveloper@gmail.com",
+            "homepage": "http://dota.septon.pro",
             "role": "Developer"
         }
     ],

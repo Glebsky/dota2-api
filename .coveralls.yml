@@ -1,2 +1,3 @@
 # for php-coveralls
-src_dir: includes
+service_name: travis-pro
+repo_token: iJJc8PCSq8qbfgyvaGafcaS8i2GhbRlpD

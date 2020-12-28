@@ -1,7 +1,7 @@
 #DotA2-Api
 
 [![Build Status](https://travis-ci.org/kronusme/dota2-api.png?branch=master)](https://travis-ci.org/kronusme/dota2-api)
-[![Coverage Status](https://coveralls.io/repos/kronusme/dota2-api/badge.png?branch=master)](https://coveralls.io/r/kronusme/dota2-api?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Glebsky/dota2-api/badge.svg?branch=master)](https://coveralls.io/github/Glebsky/dota2-api?branch=master)
 [![License](https://poser.pugx.org/kronusme/dota2-api/license.svg)](https://packagist.org/packages/kronusme/dota2-api)
 [![Latest Stable Version](https://poser.pugx.org/kronusme/dota2-api/v/stable.svg)](https://packagist.org/packages/kronusme/dota2-api)
 [![Dependencies](https://www.versioneye.com/user/projects/5469ed86a760ce7bc8000027/badge.svg)](https://www.versioneye.com/user/projects/5469ed86a760ce7bc8000027)
@@ -25,7 +25,7 @@ First of all you need web-server with **PHP 5.3+** ( **PDO** and **cURL** should
 ````json
 {
     "require": {
-        "kronusme/dota2-api": "2.2.1"
+        "glebsky/dota2-api": "1.0"
     }
 }
 ````
@@ -344,10 +344,4 @@ echo $logoData->url;
 
 ### Thanks
 
-1. Valve for DotA 2 and Web API.
-
-2. [MuppetMaster42](http://dev.dota2.com/member.php?u=5137),  for http://dev.dota2.com/showthread.php?t=58317.
-
-3. Players, who don't hide their own statistic.
-
-4. dev.dota2 community.
+Updated By Glebsky

@@ -19,7 +19,7 @@ abstract class HeroesData extends Data
             return '';
         } else {
             $suffix = $thumb ? $this->_suffixes['thumb'] : $this->_suffixes['large'];
-            return 'http://media.steampowered.com/apps/dota2/images/' . $this->_field . '/' . $data['name'] . '_' . $suffix . '.png';
+            return 'https://media.steampowered.com/apps/dota2/images/' . $this->_field . '/' . $data['name'] . '_' . $suffix . '.png';
         }
     }
 }
