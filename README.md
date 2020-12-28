@@ -1,4 +1,4 @@
-#DotA2-Api
+### DotA2-Api
 
 [![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) [![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
 [![Coverage Status](https://coveralls.io/repos/github/Glebsky/dota2-api/badge.svg?branch=master)](https://coveralls.io/github/Glebsky/dota2-api?branch=master)
