@@ -1,4 +1,5 @@
 #DotA2-Api
+[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) [![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
 [![Coverage Status](https://coveralls.io/repos/github/Glebsky/dota2-api/badge.svg?branch=master)](https://coveralls.io/github/Glebsky/dota2-api?branch=master)
 
 ### About
@@ -19,10 +20,14 @@ First of all you need web-server with **PHP 5.3+** ( **PDO** and **cURL** should
 ````json
 {
     "require": {
-        "glebsky/dota2-api": "1.0"
+        "glebsky/dota2-api": "2.2.2"
     }
 }
 ````
+
+or 
+
+`composer require glebsky/dota2-api`
 
 2. Connect to your mysql-server with any tool (phpmyadmin, heidisql etc) and execute code from the file **db_latest.sql**.
 
